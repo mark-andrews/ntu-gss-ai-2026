@@ -77,6 +77,11 @@ This resource goes into considerably more detail on all the topics covered in th
 
 A guide on the installation and set-up of the software that we will use is available [here](software.md).
 
+A helper Python package for this course can be installed with the following command:
+```python
+pip install git+https://github.com/mark-andrews/nettle.git
+```
+
 ## Timetable
 
 ### Week 1
