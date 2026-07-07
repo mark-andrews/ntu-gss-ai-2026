@@ -80,6 +80,9 @@ A guide on the installation and set-up of the software that we will use is avail
 Two helper Python packages for this course can be installed with the following commands:
 ```python
 pip install git+https://github.com/mark-andrews/nettle.git
+```
+and 
+```python
 pip install git+https://github.com/mark-andrews/nettlelang.git
 ```
 
